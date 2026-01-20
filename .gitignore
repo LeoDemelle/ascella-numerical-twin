@@ -1,0 +1,34 @@
+# --- Environnements virtuels ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Fichiers Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Distribution / packaging ---
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Logs ---
+*.log
+
+# --- Cache divers ---
+*.cache/
+.cache/
+.ipynb_checkpoints/
+
+# --- IDE / éditeurs ---
+# VS Code
+.vscode/
+
+# --- OS files ---
+# Windows
+Thumbs.db
